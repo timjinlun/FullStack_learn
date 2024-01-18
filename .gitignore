@@ -1,0 +1,6 @@
+#Virtial Enviorment
+Scripts/
+Lib/
+
+# files
+pyvenv.cfg
